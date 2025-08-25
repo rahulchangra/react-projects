@@ -1,6 +1,10 @@
+import Chai from './chai'
 function App() {
   return (
-    <h1>Hello dosto</h1>
+    <>
+     <Chai />
+    </> 
+   
   );
 }
 
